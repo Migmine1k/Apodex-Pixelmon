@@ -1,0 +1,11 @@
+.header {
+	color: rgb(30, 128, 255);
+	font-family: 'Lilita One', cursive;
+	font-size: 45px;
+	letter-spacing: 10px;
+	margin-top: 80px;
+}
+.header img {
+	width: 90px;
+	margin-left: -15px;
+}
